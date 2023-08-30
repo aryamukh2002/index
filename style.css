@@ -225,7 +225,11 @@ header ul li a.active{
    
     color: #fff;
 }
-
+.sec h3{
+	text-align: center;}
+.sec h3:hover{
+	color:#1c0522;
+	background:#fff;}
 .sec p{
     font-size: 1.2em;
     color: #fff;
