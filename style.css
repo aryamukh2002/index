@@ -6,8 +6,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 *{
-    height: -webkit-fill-available;
-    width: -webkit-fill-available ;
+    
     margin: 0;
     padding: 0;
     box-sizing: border-box;
